@@ -2,17 +2,25 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
 
-      <style>
+        <style>
         body {
             font-family: Raleway, Arial;
         }
-        h1 {
-            color: red;
+        h1, li {
             font-family: Raleway, Arial;
         }
-      </style>
+        </style>
 
-      <h1>Instructions</h1>
+        <h1>CRUD Tutorial - ReactJS, NodeJS, MySQL</h1>
+        <p>https://www.youtube.com/watch?v=T8mqZZ0r-RA</p>
+        <ol>
+            <li>mkdir crud-with-react</li>
+            <li>cd crud-with-react</li>
+            <li>mkdir frontend backend</li>
+            <li>cd frontend</li>
+            <li>npx create-react-app .</li>
+            <li>npm start</li>
+        </ol>
 
     </div>
   </foreignObject>
