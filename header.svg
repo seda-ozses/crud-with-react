@@ -4,7 +4,7 @@
 
       <style>
         body {
-            font-family: Raleway;
+            font-family: Raleway, Arial;
         }
         h1 {
             color: red;
