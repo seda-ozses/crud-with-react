@@ -3,10 +3,12 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
 
       <style>
-        /* your CSS */
+        h1 {
+            color: red;
+        }
       </style>
 
-      <!-- your HTML -->
+      <h1>Here</h1>
 
     </div>
   </foreignObject>
