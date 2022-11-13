@@ -7,12 +7,12 @@
             font-family: Raleway, Arial;
         }
         h1, li {
-            font-family: Raleway, Arial;
+            font-family: "Raleway Light", Arial;
         }
         </style>
 
         <h1>CRUD Tutorial - ReactJS, NodeJS, MySQL</h1>
-        <p>https://www.youtube.com/watch?v=T8mqZZ0r-RA</p>
+        <p><a href="https://www.youtube.com/watch?v=T8mqZZ0r-RA" target="_blank">https://www.youtube.com/watch?v=T8mqZZ0r-RA</a></p>
         <ol>
             <li>mkdir crud-with-react</li>
             <li>cd crud-with-react</li>
