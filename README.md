@@ -1,4 +1,5 @@
 # CRUD - ReactJS, NodeJS, MySQL
+This is a single page application implemented with ReactJS, NodeJS and MySQL by using PedroTech's 3 part series tutorial. In addition, <a href="https://mui.com/" targe="_blank">Material UI</a> was used to beautify the frontend.
 
 ## Create from scratch with tutorial
 <ol>
@@ -33,7 +34,7 @@
   <li>Run: 
     <ul>
       <li><code>node index.js</code> or</li>
-      <li>Add start and devStart to package.json and then: <code>npm run devStart</code></li>
+      <li>Add start and devStart to package.json and then <code>npm run devStart</code></li>
     </ul>
   </li>
 </ol>
