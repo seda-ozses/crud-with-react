@@ -39,3 +39,13 @@
     </ul>
   </li>
 </ol>
+
+### Database
+<ol>
+<li><code>CREATE SCHEMA `crudDB` ;</code></li>
+<li><code>CREATE TABLE `crudDB`.`users` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `firstName` VARCHAR(45) NULL,
+  `lastName` VARCHAR(45) NULL,
+  PRIMARY KEY (`id`));</code></li>
+</ol>
